@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # 🛠️ What's Happening in the Shop
 
 Welcome — I'm Luke. I build intelligent tools, automate workflows, and ship weird, useful systems in the open. This space is part workshop, part lab, part field report. Here's what's in motion right now:
