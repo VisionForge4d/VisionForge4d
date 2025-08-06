@@ -22,7 +22,7 @@ Makefile-based CLI system for managing releases, changelogs, exports, and git lo
 Meant to feel like your terminal is your foreman.  
 > Tools: Bash · Make · Git · Personal ritual stack
 
-**🔹MyTable – A Personal Meal Planner for Real Life **
+**🔹 MyTable – A Personal Meal Planner for Real Life**
 MyTable is a small but mighty AI-assisted meal planning app, built for everyday use by real people. Whether you're cooking for one or managing a household, MyTable helps organize recipes, shopping lists, preferences, and pantry insights — all in one beautifully simple interface.
 > Tools: Vite + React·Flask (API backend)·TailwindCSS·Lucide
 
