@@ -6,7 +6,7 @@ Welcome — I'm Luke. I build intelligent tools, automate workflows, and ship we
 ---
 
 ## 🚧 Active Projects
-**🔹"hotswap-llm** 
+**🔹"eddy-llm-workbench** 
 HotSwapLLM is the fastest way to route your prompts across multiple large language models without changing your workflow.
 Seamlessly swap between OpenAI, Anthropic, Groq, and local models in real time — test outputs side-by-side, optimize cost, and pick the best response instantly.
 No more redeploys. No more guesswork. Just smarter switching.
